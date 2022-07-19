@@ -1,0 +1,14 @@
+{
+  "Lista": [
+    {
+      "Tipo": "circulo",
+      "Texto": "Jos",
+      "Caracteristicas":  "radio=15;"
+    },
+    {
+      "Tipo": "rectangulo",
+      "Texto": "Jhostin",
+      "Caracteristicas":  "base=10;altura=5"
+    }
+  ]
+}
