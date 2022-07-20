@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "28TPj6Tg+U2lbfWYJBkFqGrqmv5uyfnXHW6YLdz3piokoG1fRWPYBFcUkQHg0FI20Sb8zBaq1I6uDLPRCLjDmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Familia-1\\Desktop\\Figuras\\Figuras\\Aplicacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Familia-1\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Familia-1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Familia-1\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

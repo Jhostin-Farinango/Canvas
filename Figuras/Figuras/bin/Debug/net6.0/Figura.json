@@ -7,8 +7,13 @@
     },
     {
       "Tipo": "rectangulo",
-      "Texto": "Jhostin",
+      "Texto": "J",
       "Caracteristicas":  "base=10;altura=5"
+    },
+    {
+      "Tipo": "pentagono",
+      "Texto": "Paz",
+      "Caracteristicas":  "radio=20;"
     }
   ]
 }

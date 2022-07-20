@@ -18,7 +18,7 @@ namespace Aplicacion
 
                 foreach (ModeloFigura fig in jsonObjecto.Lista)
                 {
-                    if (fig.Tipo != "circulo" && fig.Tipo != "rectangulo" ) 
+                    if (fig.Tipo != "circulo" && fig.Tipo != "rectangulo" && fig.Tipo != "pentagono") 
                     {
                         error = true;
                     }

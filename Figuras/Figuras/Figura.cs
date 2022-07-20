@@ -14,6 +14,10 @@
             {
                 return new Rectangulo();
             }
+            else if (figura == "pentagono")
+            {
+                return new Pentagono();
+            }
 
             else
             {
